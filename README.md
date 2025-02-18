@@ -1,7 +1,8 @@
 # Profile
 Profile
 
-              
+![Static Badge](https://img.shields.io/badge/_Dash-Board-red)
+        
 
 ![ush-1010's Stats](https://github-readme-stats.vercel.app/api?username=ush-1010&theme=tokyonight&show_icons=true&hide_border=false&count_private=false)
 
