@@ -1,11 +1,12 @@
 # 👋 Hi, I'm Utkarsh
-**SRE | Linux | Kubernetes | DOCKER |  AWS | Terraform | Python | CICD | Prometheus | Grafana**
+__SRE | Linux | Kubernetes | DOCKER | AWS | Terraform | Automatation | CICD | Monitoring__
 
-I’m an SRE with **years of experience in diffrent industries and varios tools** building reliable, scalable, and cost-efficient cloud-native platforms on **Public or Private cloud**.
+I’m an SRE with __years of experience in diffrent industries and varios tools__ building reliable, scalable, and cost-efficient cloud-native platforms on **Public or Private cloud**.
 I love solving complex infrastructure challenges, automatation and improving exsisting solutions every possible ways with modern practices.
 
 ---
-#
+## TECH
+
 [![roadmap.sh](https://roadmap.sh/card/wide/67b62c1098abd86c99843111?variant=dark&roadmaps=devops%2Ckubernetes%2Cterraform)](https://roadmap.sh)
 
 ![ush-1010's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ush-1010&theme=tokyonight&hide_border=false)
