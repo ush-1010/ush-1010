@@ -3,6 +3,7 @@
 
 I’m an SRE with **years of experience in diffrent industries and varios tools** building reliable, scalable, and cost-efficient cloud-native platforms on **Public or Private cloud**.
 I love solving complex infrastructure challenges, automatation and improving exsisting solutions every possible ways with modern practices.
+
 -
 #
 [![roadmap.sh](https://roadmap.sh/card/wide/67b62c1098abd86c99843111?variant=dark&roadmaps=devops%2Ckubernetes%2Cterraform)](https://roadmap.sh)
