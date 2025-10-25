@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Utkarsh
-__SRE | Linux | Kubernetes | DOCKER | AWS | Terraform | Automatation | CICD | Monitoring__
+__SRE | Linux | Kubernetes | DOCKER | AWS | Terraform | BASH | Python | CICD | Grafana | Prometheus__
 
 I’m an SRE with __years of experience in diffrent industries and varios tools__ building reliable, scalable, and cost-efficient cloud-native platforms on **Public or Private cloud**.
 I love solving complex infrastructure challenges, automatation and improving exsisting solutions every possible ways with modern practices.
