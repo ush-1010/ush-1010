@@ -8,5 +8,5 @@
 ![ush-1010's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ush-1010&theme=tokyonight&hide_border=false)
 
 ## 🌐 Let’s Connect  
-📫 [Email](mailto:nidhizala2307@gmail.com) | 💼 [LinkedIn](https://linkedin.com/in/nidhi-zala-2307)
+### 📫 [Email](mailto:nidhizala2307@gmail.com) | 💼 [LinkedIn](https://linkedin.com/in/nidhi-zala-2307)
 ---
